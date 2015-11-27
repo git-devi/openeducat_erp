@@ -35,7 +35,7 @@
             * Batch
 
     """,
-    'author': 'Tech Receptives',
+    'author': 'Tech-Receptives Solutions Pvt. Ltd.',
     'website': 'http://www.openeducat.org',
     'depends': ['board', 'document', 'hr', 'web', 'website'],
     'data': [
